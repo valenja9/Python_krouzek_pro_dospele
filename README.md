@@ -8,9 +8,9 @@
 - Startuje(1.2.- 10.3)
 - Behem prvniho kurzu se naucime pevne zaklady.
 1) Ukladani, int,float, input, dir,type 
-2) List a opakovani  - [colab_z_prvni_a_druhe_lekce]()
-3) Podminky, tuple   - [colab_z_treti_lekce]()
-4) Range, forcyklus, slovnik - [colab_z_ctvrte_lekce]()
+2) List a opakovani  - [colab_z_prvni_a_druhe_lekce](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_krouzek_dospelaciI_II_lekce.ipynb)
+3) Podminky, tuple   - [colab_z_treti_lekce](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_dospelaci_III.ipynb)
+4) Range, forcyklus, slovnik - [colab_z_ctvrte_lekce](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_pro_dospeleIV.ipynb)
 5) While cyklus a ulozeni do souboru - [colab_z_pate_lekce]()
 6) Enumerate a Cykly opakovani - [colab_z_seste_lekce]()
 7) Funkce - [colab_z_sedme_lekce]()

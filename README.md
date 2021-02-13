@@ -1,0 +1,1 @@
+# Python_krouzek_pro_dospele

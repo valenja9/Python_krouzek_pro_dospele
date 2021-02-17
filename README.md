@@ -10,7 +10,7 @@
 1) Ukladani, int,float, input, dir,type 
 2) List a opakovani  * [colab_z_prvni_a_druhe_lekce](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_krouzek_dospelaciI_II_lekce.ipynb)
 3) Podminky, tuple   * [colab_z_treti_lekce](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_dospelaci_III.ipynb)
-4) Range, forcyklus, slovnik * [colab_z_ctvrte_lekce](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_pro_dospeleIV.ipynb)
+4) Range, forcyklus, slovnik * [colab_z_ctvrte_lekce](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_pro_dospeleIV.ipynb) [Zhrnujici_video_1_4_lekce](https://drive.google.com/file/d/15xzAW8alxILxiKYo1jpRStWrQL78HYj0/view?usp=sharing)
 5) While cyklus a ulozeni do souboru * [colab_z_pate_lekce](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_pro_dospele_5.ipynb)
 6) Enumerate a Cykly opakovani * [colab_z_seste_lekce]()
 7) Funkce * [colab_z_sedme_lekce]()

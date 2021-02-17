@@ -30,6 +30,7 @@
 * Naucime se obsluhovat a vytvaret soubory pomoci prikazave radky. 
 * Premistovat a mazat soubory
 * Ukladat data z pythonu, tak aby se znovu dala pouzit. 
+* Prace s databazy pomoci pythonu
 
 
 

@@ -13,7 +13,7 @@
 4) Range, forcyklus, slovnik * [colab_z_ctvrte_lekce](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_pro_dospeleIV.ipynb) [Zhrnujici_video_1_4_lekce](https://drive.google.com/file/d/15xzAW8alxILxiKYo1jpRStWrQL78HYj0/view?usp=sharing)
 5) While cyklus a ulozeni do souboru * [colab_z_pate_lekce](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_pro_dospele_5.ipynb)
 6) Enumerate a cykly, opakovani * [colab_z_seste_lekce](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_pro_dospele6.ipynb)
-7) Funkce * [colab_z_sedme_lekce]()
+7) Funkce * [colab_z_sedme_lekce](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_pro_dospele_VII.ipynb)
 8) Funkce * [colab_z_osme_lekce]()
 9) Pycharm a git a prikazova radka  * [Instalace Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
                                     * [Instalace Python](https://www.python.org/downloads/)

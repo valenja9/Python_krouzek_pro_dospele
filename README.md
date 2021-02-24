@@ -14,7 +14,7 @@
 5) While cyklus a ulozeni do souboru * [colab_z_pate_lekce](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_pro_dospele_5.ipynb)
 6) Enumerate a cykly, opakovani * [colab_z_seste_lekce](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_pro_dospele6.ipynb)
 7) Funkce * [colab_z_sedme_lekce](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_pro_dospele_VII.ipynb)
-8) Funkce * [colab_z_osme_lekce]()
+8) Funkce * [colab_z_osme_lekce](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_krouzek_pro_dospele_VIII.ipynb)
 9) Pycharm a git a prikazova radka  * [Instalace Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
                                     * [Instalace Python](https://www.python.org/downloads/)
                                     * [git registrace](https://github.com/)

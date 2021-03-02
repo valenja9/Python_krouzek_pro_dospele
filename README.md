@@ -18,7 +18,7 @@
 9) Pycharm a git a prikazova radka  * [Instalace Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
                                     * [Instalace Python](https://www.python.org/downloads/)
                                     * [git registrace](https://github.com/)
-                                    * [colab_z_devate_lekce]()
+                                    * [novy_repozitar_s_kody](https://github.com/valenja9/tvorba_prvniho_repozotare)
 10) Sys modul a os    *[colab_z_desate_lekce]()
 11) Zaverecny projekt * [colab_z_jedenacte_lekce]()
 12) Zaverecny projekt * [colab_z_dvanacte_lekce]()

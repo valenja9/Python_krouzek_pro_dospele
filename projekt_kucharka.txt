@@ -1,0 +1,22 @@
+# Kucharka.cz: 
+Máme vlastní kuchařku, kde se nacházejí recepty na kuřecí a hovězí maso a žampion portobello. Každý uživatel se přihlašuje svým jménem, příjmením a věkem, který je nastaven na hranici 12 let, pomocí správně zadaného mailu. Následně si může uživatel nechat vypsat všechny recepty ze zvoleného druhu.
+ 
+Data jsou zadaná ve slovníku.
+ 
+ 
+Vytvořte:
+- Od uživatele budeme potřebovat zadat následující informace:
+  - Jméno, příjmení, věk, mailová adresa.
+- Jméno a příjmení jsou složeny jen z písmen. (Funkce: kontrola_pismen) 
+- Program by měl kontrolovat věkovou hranici 12 let (Funkce: kontrola_veku)
+- Kontrolovat, jestli mail obsahuje @ a .(Funkce: kontrola_spravnosti_mailu)
+- Pokud kontrola proběhne v pořádku, tak může zákazník pokračovat na výběr. Jinak program skončí (exit())
+ 
+Moduly:
+- slovník receptu je uložen ve skriptu:"*soubor_recepty.py*" 
+- Hlavní skript pojmenujte "moje_kucharka.py"  
+- Vytvořte třetí pomocný skript, který bude obsahovat zbylé funkce: "potrebne_funkce.py"
+- Tento skript by měl obsahovat všechny kontrolní funkce a funkci: prochazeni_kucharky
+ 
+- Zkuste tento skript napsat nejdříve bez funkcí
+

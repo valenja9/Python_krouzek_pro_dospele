@@ -1,5 +1,5 @@
 # Python_kroužek pro dospele.
-![Kdyby Bart umel programovat, tak nebude muset psat na tabuly vsechny vety](https://github.com/valenja9/Python_krou-ek_pro_dosp-l-/blob/main/tabule-bart.jpg)
+![Kdyby Bart umel programovat tak nebude muset psat na tabuly vsechny vety](https://github.com/valenja9/Python_krou-ek_pro_dosp-l-/blob/main/tabule-bart.jpg)
 
 * Vytejte v teto akademii, ktera by mela vystavet pevne zaklady, pro osobni pouziti pythonu. Pripadne pro nastartovat vasi cestu za lepsim zamestnanim. Na zacatek budeme potrebovat vlastni colab. [Najdete zde](https://colab.research.google.com/notebooks/intro.ipynb)
 
@@ -17,10 +17,14 @@
 8) Funkce * [colab_z_osme_lekce](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_krouzek_pro_dospele_VIII.ipynb)
 9) Pycharm a git a prikazova radka  * [Instalace Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
                                     * [Instalace Python](https://www.python.org/downloads/)
-                                    * [git registrace](https://github.com/)
-                                    * [novy_repozitar_s_kody](https://github.com/valenja9/tvorba_prvniho_repozotare)
-10) Sys modul a os    *[colab_z_desate_lekce]()
+                                    * [Git registrace](https://github.com/)
+                                    * [Novy_repozitar_s_kody](https://github.com/valenja9/tvorba_prvniho_repozotare)
+                                    * [Shrnujici video 1-9 lekce]()
+10) Sys modul a os    *[colab_z_desate_lekce]() *[video_projektu_vytvoreni_slozek_souboru]()
 11) Zaverecny projekt * [colab_z_jedenacte_lekce]()
+                      *[Projekt_kucharka](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Projekt_kucharka_zadani.ipynb)
+                      *[Projekt_kosik](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Projekt_nakupni_kosik_zadani.ipynb)
+                      *[Projekt_cestovni_spolecnost](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Projekt_cestovni_appka_zadani.ipynb)
 12) Zaverecny projekt * [colab_z_dvanacte_lekce]()
 
 

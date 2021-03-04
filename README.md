@@ -54,9 +54,9 @@
 7) Json + prace se slozkou
 8) Csv + prace se slozkou
 9) Prace s databaziI
-10)Prace s databaziII
-11)Zaverecny projekt
-12)Zaverecny projekt
+10) Prace s databaziII
+11) Zaverecny projekt
+12) Zaverecny projekt
 
 
 

@@ -30,8 +30,8 @@
 * [Novy_repozitar_s_kody](https://github.com/valenja9/tvorba_prvniho_repozotare)
 * [Shrnujici video 5-9 lekce](https://drive.google.com/file/d/1tyas_NOW1ncqIAAawcmRcMoTln5WhTbr/view?usp=sharing)
 10) Sys modul a os   
-*[colab_z_desate_lekce](https://colab.research.google.com/drive/1kwoKuT5Hws-mlrQYgggh_8q3Io1aPEX2?usp=sharing) 
-*[video_projektu_vytvoreni_slozek_souboru](https://drive.google.com/file/d/1HC2xsCi8sCtUB45rbZKGv9ETnRAxOwes/view?usp=sharing)
+* [colab_z_desate_lekce](https://colab.research.google.com/drive/1kwoKuT5Hws-mlrQYgggh_8q3Io1aPEX2?usp=sharing) 
+* [video_projektu_vytvoreni_slozek_souboru](https://drive.google.com/file/d/1HC2xsCi8sCtUB45rbZKGv9ETnRAxOwes/view?usp=sharing)
 11) Zaverecny projekt 
 * [Projekt_kucharka](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Projekt_kucharka_zadani.ipynb)
 * [Projekt_kosik](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Projekt_nakupni_kosik_zadani.ipynb)

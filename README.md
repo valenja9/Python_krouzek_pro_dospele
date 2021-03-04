@@ -1,7 +1,7 @@
 # Python krouzek pro dospele.
 ![Kdyby Bart umel programovat tak nebude muset psat na tabuly vsechny vety](https://github.com/valenja9/Python_krou-ek_pro_dosp-l-/blob/main/tabule-bart.jpg)
 
-* Vytejte v teto akademii, ktera by mela vystavet pevne zaklady, pro osobni pouziti pythonu. Pripadne pro nastartovat vasi cestu za lepsim zamestnanim. Behem akademie projdeme zakladni stavbu jazyka, syntaxi. Ukazeme si i jak vytvorit projekt a verzovat ho. Kazdou hodinu prochazime teorii a pak ji vyuzivame na slozitejsich prikladech. Za 12 hodin se nenaucite programovat! Idealni je k teto problematice pristupovat jako k uceni se jazyka. Znat dobre gramatiku a strukturu a postupne si zlepsovat slovni zasobu. My ukazeme gramatiku a strukturu. Na  vás je zlepsit si slovni zasobu. Tedy psat kody, googlit a hledat odpovedi.
+* Vytejte v teto akademii, ktera by mela vystavet pevne zaklady, pro osobni pouziti pythonu. Pripadne pro nastartovat vasi cestu za lepsim zamestnanim. Behem akademie projdeme zakladni stavbu jazyka, syntaxi. Ukazeme si i jak vytvorit projekt a verzovat ho. Kazdou hodinu prochazime teorii a pak ji vyuzivame na slozitejsich prikladech. Za 12 hodin se nenaucite programovat! Idealni je k teto problematice pristupovat jako k uceni se jazyka. Znat dobre gramatiku a strukturu a postupne si zlepsovat slovni zasobu. My ukazeme gramatiku a strukturu. Na vas je zlepsit si slovni zasobu. Tedy psat kody, googlit a hledat odpovedi.
 
 * Na zacatek budeme potrebovat vlastni colab. [Najdete zde](https://colab.research.google.com/notebooks/intro.ipynb)
 
@@ -33,13 +33,13 @@
 *[colab_z_desate_lekce](https://colab.research.google.com/drive/1kwoKuT5Hws-mlrQYgggh_8q3Io1aPEX2?usp=sharing) 
 *[video_projektu_vytvoreni_slozek_souboru](https://drive.google.com/file/d/1HC2xsCi8sCtUB45rbZKGv9ETnRAxOwes/view?usp=sharing)
 11) Zaverecny projekt 
-*[Projekt_kucharka](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Projekt_kucharka_zadani.ipynb)
-*[Projekt_kosik](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Projekt_nakupni_kosik_zadani.ipynb)
-*[Projekt_cestovni_spolecnost](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Projekt_cestovni_appka_zadani.ipynb)
+* [Projekt_kucharka](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Projekt_kucharka_zadani.ipynb)
+* [Projekt_kosik](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Projekt_nakupni_kosik_zadani.ipynb)
+* [Projekt_cestovni_spolecnost](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Projekt_cestovni_appka_zadani.ipynb)
 12) Zaverecny projekt 
-*[Vysledek_Projekt_kucharka]()
-*[Vysledek_Projekt_kosik]()
-*[vysledek_cestovni_spolecnost]()
+* [Vysledek_Projekt_kucharka]()
+* [Vysledek_Projekt_kosik]()
+* [vysledek_cestovni_spolecnost]()
 
 
 # Python II Procvicovani na prikladech.(12hodin):

@@ -1,40 +1,62 @@
-# Python_kroužek pro dospele.
+# Python krouzek pro dospele.
 ![Kdyby Bart umel programovat tak nebude muset psat na tabuly vsechny vety](https://github.com/valenja9/Python_krou-ek_pro_dosp-l-/blob/main/tabule-bart.jpg)
 
-* Vytejte v teto akademii, ktera by mela vystavet pevne zaklady, pro osobni pouziti pythonu. Pripadne pro nastartovat vasi cestu za lepsim zamestnanim. Na zacatek budeme potrebovat vlastni colab. [Najdete zde](https://colab.research.google.com/notebooks/intro.ipynb)
+* Vytejte v teto akademii, ktera by mela vystavet pevne zaklady, pro osobni pouziti pythonu. Pripadne pro nastartovat vasi cestu za lepsim zamestnanim. Behem akademie projdeme zakladni stavbu jazyka, syntaxi. Ukazeme si i jak vytvorit projekt a verzovat ho. Kazdou hodinu prochazime teorii a pak ji vyuzivame na slozitejsich prikladech. Za 12 hodin se nenaucite programovat! Idealni je k teto problematice pristupovat jako k uceni se jazyka. Znat dobre gramatiku a strukturu a postupne si zlepsovat slovni zasobu. My ukazeme gramatiku a strukturu. Na  vás je zlepsit si slovni zasobu. Tedy psat kody, googlit a hledat odpovedi.
+
+* Na zacatek budeme potrebovat vlastni colab. [Najdete zde](https://colab.research.google.com/notebooks/intro.ipynb)
 
 
 # Python I(12hodin):
-* Startuje(1.2.- 10.3)
-* Behem prvniho kurzu se naucime pevne zaklady.
 1) Ukladani, int,float, input, dir,type 
-2) List a opakovani  * [colab_z_prvni_a_druhe_lekce](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_krouzek_dospelaciI_II_lekce.ipynb)
-3) Podminky, tuple   * [colab_z_treti_lekce](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_dospelaci_III.ipynb)
-4) Range, forcyklus, slovnik * [colab_z_ctvrte_lekce](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_pro_dospeleIV.ipynb) [Zhrnujici_video_1_4_lekce](https://drive.google.com/file/d/15xzAW8alxILxiKYo1jpRStWrQL78HYj0/view?usp=sharing)
-5) While cyklus a ulozeni do souboru * [colab_z_pate_lekce](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_pro_dospele_5.ipynb)
-6) Enumerate a cykly, opakovani * [colab_z_seste_lekce](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_pro_dospele6.ipynb)
-7) Funkce * [colab_z_sedme_lekce](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_pro_dospele_VII.ipynb)
-8) Funkce * [colab_z_osme_lekce](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_krouzek_pro_dospele_VIII.ipynb)
-9) Pycharm a git a prikazova radka  * [Instalace Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
-                                    * [Instalace Python](https://www.python.org/downloads/)
-                                    * [Git registrace](https://github.com/)
-                                    * [Novy_repozitar_s_kody](https://github.com/valenja9/tvorba_prvniho_repozotare)
-                                    * [Shrnujici video 5-9 lekce](https://drive.google.com/file/d/1tyas_NOW1ncqIAAawcmRcMoTln5WhTbr/view?usp=sharing)
-10) Sys modul a os    *[colab_z_desate_lekce]() *[video_projektu_vytvoreni_slozek_souboru](https://drive.google.com/file/d/1HC2xsCi8sCtUB45rbZKGv9ETnRAxOwes/view?usp=sharing)
-11) Zaverecny projekt * [colab_z_jedenacte_lekce]()
-                      *[Projekt_kucharka](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Projekt_kucharka_zadani.ipynb)
-                      *[Projekt_kosik](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Projekt_nakupni_kosik_zadani.ipynb)
-                      *[Projekt_cestovni_spolecnost](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Projekt_cestovni_appka_zadani.ipynb)
-12) Zaverecny projekt * [colab_z_dvanacte_lekce]()
+2) List a opakovani  
+* [colab_z_prvni_a_druhe_lekce](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_krouzek_dospelaciI_II_lekce.ipynb)
+3) Podminky, tuple   
+* [colab_z_treti_lekce](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_dospelaci_III.ipynb)
+4) Range, forcyklus, slovnik 
+* [colab_z_ctvrte_lekce](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_pro_dospeleIV.ipynb) 
+* [Zhrnujici_video_1_4_lekce](https://drive.google.com/file/d/15xzAW8alxILxiKYo1jpRStWrQL78HYj0/view?usp=sharing)
+5) While cyklus a ulozeni do souboru 
+* [colab_z_pate_lekce](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_pro_dospele_5.ipynb)
+6) Enumerate a cykly, opakovani 
+* [colab_z_seste_lekce](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_pro_dospele6.ipynb)
+7) Funkce 
+* [colab_z_sedme_lekce](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_pro_dospele_VII.ipynb)
+8) Funkce 
+* [colab_z_osme_lekce](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_krouzek_pro_dospele_VIII.ipynb)
+9) Pycharm a git a prikazova radka  
+* [Instalace Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
+* [Instalace Python](https://www.python.org/downloads/)
+* [Git registrace](https://github.com/)
+* [Novy_repozitar_s_kody](https://github.com/valenja9/tvorba_prvniho_repozotare)
+* [Shrnujici video 5-9 lekce](https://drive.google.com/file/d/1tyas_NOW1ncqIAAawcmRcMoTln5WhTbr/view?usp=sharing)
+10) Sys modul a os   
+*[colab_z_desate_lekce](https://colab.research.google.com/drive/1kwoKuT5Hws-mlrQYgggh_8q3Io1aPEX2?usp=sharing) 
+*[video_projektu_vytvoreni_slozek_souboru](https://drive.google.com/file/d/1HC2xsCi8sCtUB45rbZKGv9ETnRAxOwes/view?usp=sharing)
+11) Zaverecny projekt 
+*[Projekt_kucharka](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Projekt_kucharka_zadani.ipynb)
+*[Projekt_kosik](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Projekt_nakupni_kosik_zadani.ipynb)
+*[Projekt_cestovni_spolecnost](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Projekt_cestovni_appka_zadani.ipynb)
+12) Zaverecny projekt 
+*[Vysledek_Projekt_kucharka]()
+*[Vysledek_Projekt_kosik]()
+*[vysledek_cestovni_spolecnost]()
 
 
 # Python II Procvicovani na prikladech.(12hodin):
 * Startuje(15.3 - 21.4)
 * Procvicime latku z prvni casti v prvnich 6 lekcich.
-* Naucime se obsluhovat a vytvaret soubory pomoci prikazave radky. 
-* Premistovat a mazat soubory
-* Ukladat data z pythonu, tak aby se znovu dala pouzit. 
-* Prace s databazí pomoci pythonu
+1) Procviceni stringu + vsechny technologie
+2) Procviceni listu, tuplu + vsechny technologie
+3) Procviceni slovnik  + vsechny technologie
+4) Procviceni Range + + vsechny technologie
+5) Komplexni procviceni
+6) komplexni procviceni
+7) Json + prace se slozkou
+8) Csv + prace se slozkou
+9) Prace s databaziI
+10)Prace s databaziII
+11)Zaverecny projekt
+12)Zaverecny projekt
 
 
 

@@ -3,6 +3,7 @@
 
 * Vytejte v teto akademii, ktera by mela vystavet pevne zaklady, pro osobni pouziti pythonu. Pripadne pro nastartovat vasi cestu za lepsim zamestnanim. Behem akademie projdeme zakladni stavbu jazyka, syntaxi. Ukazeme si i jak vytvorit projekt a verzovat ho. Kazdou hodinu prochazime teorii a pak ji vyuzivame na slozitejsich prikladech. Za 12 hodin se nenaucite programovat! Idealni je k teto problematice pristupovat jako k uceni se jazyka. Znat dobre gramatiku a strukturu a postupne si zlepsovat slovni zasobu. My ukazeme gramatiku a strukturu. Na vas je zlepsit si slovni zasobu. Tedy psat kody, googlit a hledat odpovedi.
 
+* Pripoj se do nasi skupiny na Discordu: https://discord.gg/nFmsvt5XXX
 * Na zacatek budeme potrebovat vlastni colab. [Najdete zde](https://colab.research.google.com/notebooks/intro.ipynb)
 
 

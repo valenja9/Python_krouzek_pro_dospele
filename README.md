@@ -49,7 +49,7 @@
 1) Procviceni stringu + vsechny technologie
 2) Procviceni listu, tuplu + vsechny technologie
 3) Procviceni slovnik  + vsechny technologie
-4) Procviceni Range + + vsechny technologie
+4) Procviceni Range + vsechny technologie
 5) Komplexni procviceni
 6) komplexni procviceni
 7) Json + prace se slozkou

@@ -38,9 +38,9 @@
 * [Projekt_kosik](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Projekt_nakupni_kosik_zadani.ipynb)
 * [Projekt_cestovni_spolecnost](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Projekt_cestovni_appka_zadani.ipynb)
 12) Zaverecny projekt 
-* [Vysledek_Projekt_kucharka]()
-* [Vysledek_Projekt_kosik]()
-* [vysledek_cestovni_spolecnost]()
+* [Vysledek_Projekt_kucharka](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Projekt_kucharka.ipynb)
+* [Vysledek_Projekt_kosik](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Projekt_nakupni_kosik.ipynb)
+* [vysledek_cestovni_spolecnost](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Projekt_cestovni_appka.ipynb)
 
 
 # Python II Procvicovani na prikladech.(12hodin):

@@ -46,7 +46,7 @@
 # Python II Procvicovani na prikladech.(12hodin):
 * Startuje(15.3 - 21.4)
 * Procvicime latku z prvni casti v prvnich 6 lekcich.
-1) Procviceni stringu + vsechny technologie
+1) Procviceni stringu + vsechny technologie [colab z prvniho procvicovani](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_pro_dospele_prace_se_stringem.ipynb)
 2) Procviceni listu, tuplu + vsechny technologie
 3) Procviceni slovnik  + vsechny technologie
 4) Procviceni Range + vsechny technologie

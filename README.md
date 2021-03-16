@@ -7,12 +7,12 @@
 * Na zacatek budeme potrebovat vlastni colab. [Najdete zde](https://colab.research.google.com/notebooks/intro.ipynb)
 
 #Teorie
-[TeorieI](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_know_how_I.ipynb)
-[TeorieII](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_know_how_II.ipynb)
-[TeorieIII](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_know_how_III.ipynb)
+* [TeorieI](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_know_how_I.ipynb)
+* [TeorieII](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_know_how_II.ipynb)
+* [TeorieIII](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_know_how_III.ipynb)
 
 #Procvicovani
-[Procvicovani]()
+* [Procvicovani]()
 
 # Python I(12hodin):
 1) Ukladani, int,float, input, dir,type 

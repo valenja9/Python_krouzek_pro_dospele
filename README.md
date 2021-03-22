@@ -55,8 +55,8 @@
 * Procvicime latku z prvni casti v prvnich 6 lekcich.
 1) Procviceni stringu + vsechny technologie * [colab z prvniho procvicovani](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_pro_dospele_prace_se_stringem.ipynb)
 2) Procviceni listu, tuplu + vsechny technologie *[Colab_z_druheho_procvicovani](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_pro_dospele_II_Opakavani_listu.ipynb)
-3) Procviceni slovnik  + vsechny technologie
-4) Procviceni Range + vsechny technologie
+3) Procviceni slovnik  + vsechny technologie *[Colab_ze_treti_casti](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_pro_dospele_II_III.ipynb)
+4) Procviceni SlovnikII + vsechny technologie
 5) Komplexni procviceni
 6) komplexni procviceni
 7) Json + prace se slozkou

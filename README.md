@@ -57,7 +57,7 @@
 2) Procviceni listu, tuplu + vsechny technologie *[Colab_z_druheho_procvicovani](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_pro_dospele_II_Opakavani_listu.ipynb)
 3) Procviceni slovnik  + vsechny technologie *[Colab_ze_treti_casti](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_pro_dospele_II_III.ipynb)
 4) Procviceni SlovnikII + vsechny technologie *[Colab_ze_ctvrta_cast](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_pro_dospele_II_IV.ipynb)
-5) Komplexni procviceni
+5) Komplexni procviceni *[colab_z_pate_casti](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_pro_dospele_II_V.ipynb)
 6) komplexni procviceni
 7) Json + prace se slozkou
 8) Csv + prace se slozkou

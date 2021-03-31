@@ -87,6 +87,6 @@
 
 # Python VI Pocvicovani PythonuIII Posledni(Jen 6 hodin):
 * startuje(7.6-23.6)
-* Behem poslednuich seti hodin, se zkusime stahnout data pomoci api, 
+* Behem poslednuich sesti hodin, si zkusime stahnout data. 
   * 1) Stazeni dat pomoci webscrapingu. Data upravit a vhodne ulozit, nasledne provest datovou analyzu.
   * 2) Stazeni dat pomoci API. Data upravit a vhodne ulozit, nasledne provest datovou analyzu.

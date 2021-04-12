@@ -59,8 +59,8 @@
 4) Procviceni SlovnikII + vsechny technologie *[Colab_ze_ctvrta_cast](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_pro_dospele_II_IV.ipynb)
 5) Komplexni procviceni *[colab_z_pate_casti](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_pro_dospele_II_V.ipynb)
 6) komplexni procviceni *[colab_z_seste_casti](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_pro_dospele_II_VI.ipynb)
-7) Json + prace se slozkou *[colab_Z_sedme_casti](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_lekce_II_VII.ipynb)
-8) Csv + prace se slozkou
+7) Json + prace se slozkou *[colab_ze_sedme_casti](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_lekce_II_VII.ipynb)
+8) Csv + prace se slozkou  *[colab_z_osme_casti](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_pro_dospele_II_VIII.ipynb)
 9) Prace s databaziI
 10) Prace s databaziII
 11) Zaverecny projekt

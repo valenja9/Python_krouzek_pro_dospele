@@ -1,7 +1,7 @@
 # Python krouzek pro dospele.
 ![Kdyby Bart umel programovat tak nebude muset psat na tabuly vsechny vety](https://github.com/valenja9/Python_krou-ek_pro_dosp-l-/blob/main/tabule-bart.jpg)
 
-* Vytejte v teto akademii, ktera by mela vystavet pevne zaklady, pro osobni pouziti pythonu. Pripadne pro nastartovat vasi cestu za lepsim zamestnanim. Behem akademie projdeme zakladni stavbu jazyka, syntaxi. Ukazeme si i jak vytvorit projekt a verzovat ho. Kazdou hodinu prochazime teorii a pak ji vyuzivame na slozitejsich prikladech. Za 12 hodin se nenaucite programovat! Idealni je k teto problematice pristupovat jako k uceni se jazyka. Znat dobre gramatiku a strukturu a postupne si zlepsovat slovni zasobu. My ukazeme gramatiku a strukturu. Na vas je zlepsit si slovni zasobu. Tedy psat kody, googlit a hledat odpovedi.
+* Vitejte v teto akademii, ktera by mela vystavet pevne zaklady, pro osobni pouziti pythonu. Pripadne pro nastartovat vasi cestu za lepsim zamestnanim. Behem akademie projdeme zakladni stavbu jazyka, syntaxi. Ukazeme si i jak vytvorit projekt a verzovat ho. Kazdou hodinu prochazime teorii a pak ji vyuzivame na slozitejsich prikladech. Za 12 hodin se nenaucite programovat! Idealni je k teto problematice pristupovat jako k uceni se jazyka. Znat dobre gramatiku a strukturu a postupne si zlepsovat slovni zasobu. My ukazeme gramatiku a strukturu. Na vas je zlepsit si slovni zasobu. Tedy psat kody, googlit a hledat odpovedi.
 
 * Pripoj se do nasi skupiny na Discordu: https://discord.gg/nFmsvt5XXX
 * Na zacatek budeme potrebovat vlastni colab. [Najdete zde](https://colab.research.google.com/notebooks/intro.ipynb)
@@ -61,7 +61,7 @@
 6) komplexni procviceni *[colab_z_seste_casti](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_pro_dospele_II_VI.ipynb)
 7) Json + prace se slozkou *[colab_ze_sedme_casti](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_lekce_II_VII.ipynb)
 8) Csv + prace se slozkou  *[colab_z_osme_casti](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_pro_dospele_II_VIII.ipynb)
-9) Prace s databaziI
+9) Prace s databaziI *[colab_z_devate_lekce](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_pro_dospele_II_IX.ipynb)
 10) Prace s databaziII
 11) Zaverecny projekt
 12) Zaverecny projekt

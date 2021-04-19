@@ -62,7 +62,7 @@
 7) Json + prace se slozkou *[colab_ze_sedme_casti](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_lekce_II_VII.ipynb)
 8) Csv + prace se slozkou  *[colab_z_osme_casti](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_pro_dospele_II_VIII.ipynb)
 9) Prace s databaziI *[colab_z_devate_lekce](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_pro_dospele_II_IX.ipynb)
-10) Prace s databaziII
+10) Prace s databaziII *[colab_z_desate_lekce](https://github.com/valenja9/Python_krouzek_pro_dospele/blob/main/Python_pro_dospele_X_II.ipynb)
 11) Zaverecny projekt
 12) Zaverecny projekt
 
